@@ -36,3 +36,5 @@ A股市场热力图：平台采用色块形式展示股票涨跌信息，面积�
 [大盘云图](https://dapanyuntu.github.io/yuntu/)
 
 [大盘云图](https://dapanyuntu.github.io/52etf.site/)
+
+[大盘云图](https://dapanyuntu.github.io/)
